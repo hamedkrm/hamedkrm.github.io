@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[[Link](https://kavirmotor.com/Images/2022/5/9/Main/60246.Jpg)](url) and ![Image](src)
+[[Link](https://kavirmotor.com/Images/2022/5/9/Main/60246.Jpg)](url) and ![[Image](https://kavirmotor.com/Images/2022/5/9/Main/60246.Jpg)](src)
 
 [Link](url) and ![Image](src)
 ```
