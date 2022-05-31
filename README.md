@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [[Link](https://kavirmotor.com/Images/2022/5/9/Main/60246.Jpg)](url) and ![[Image](https://kavirmotor.com/Images/2022/5/9/Main/60246.Jpg)](src)
 
-[Link](url) and ![Image](src)
+[Link]([url](https://kavirmotor.com/Images/2022/5/9/Main/60246.Jpg)) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
